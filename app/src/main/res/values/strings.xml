@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Script Runner</string>
+    <string name="script_runner">Script Runner</string>
+    <string name="run">Run</string>
+    <string name="clear">Clear</string>
+    <string name="edit">Edit</string>
+</resources>
